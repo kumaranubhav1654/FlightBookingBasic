@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Flight 1",
+      "origin": "New York",
+      "destination": "London"
+    },
+    {
+      "id": 2,
+      "name": "Flight 2",
+      "origin": "New York",
+      "destination": "London"
+    },
+    {
+      "id": 3,
+      "name": "Flight 3",
+      "origin": "Paris",
+      "destination": "Rome"
+    },
+    {
+      "id": 4,
+      "name": "Flight 4",
+      "origin": "New York",
+      "destination": "London"
+    },
+    {
+      "id": 5,
+      "name": "Flight 5",
+      "origin": "Dubai",
+      "destination": "New Delhi"
+    },
+    {
+      "id": 6,
+      "name": "Flight 6",
+      "origin": "New Delhi",
+      "destination": "Canada"
+    },
+    {
+      "id": 7,
+      "name": "Flight 7",
+      "origin": "New Delhi",
+      "destination": "Bangkok"
+    },
+    {
+      "id": 8,
+      "name": "Flight 8",
+      "origin": "New Delhi",
+      "destination": "Singapore"
+    },
+    {
+      "id": 9,
+      "name": "Flight 9",
+      "origin": "New Delhi",
+      "destination": "Bali"
+    },
+    {
+      "id": 10,
+      "name": "Flight 10",
+      "origin": "New York",
+      "destination": "London"
+    },
+    {
+      "id": 11,
+      "name": "Flight 11",
+      "origin": "Athens",
+      "destination": "Istanbul"
+    },
+    {
+      "id": 12,
+      "name": "Flight 12",
+      "origin": "Istanbul",
+      "destination": "Dubai"
+    },
+    {
+      "id": 13,
+      "name": "Flight 13",
+      "origin": "Las Vegas",
+      "destination": "Miami"
+    },
+    {
+      "id": 14,
+      "name": "Flight 14",
+      "origin": "Las Vegas",
+      "destination": "Miami"
+    },
+    {
+      "id": 15,
+      "name": "Flight 15",
+      "origin": "Las Vegas",
+      "destination": "Miami"
+    },
+    {
+      "id": 16,
+      "name": "Flight 16",
+      "origin": "New York",
+      "destination": "Los Angeles"
+    },
+    {
+      "id": 17,
+      "name": "Flight 17",
+      "origin": "Las Vegas",
+      "destination": "Miami"
+    },
+    {
+      "id": 18,
+      "name": "Flight 18",
+      "origin": "Berlin",
+      "destination": "Vienna"
+    },
+    {
+      "id": 19,
+      "name": "Flight 19",
+      "origin": "Las Vegas",
+      "destination": "Miami"
+    },
+    {
+      "id": 20,
+      "name": "Flight 20",
+      "origin": "Berlin",
+      "destination": "Vienna"
+    }
+  ]
+  

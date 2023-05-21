@@ -1,0 +1,19 @@
+.dashboard-section {
+  margin-bottom: 20px;
+}
+
+.dashboard-section p {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.dashboard-section button {
+  margin-top: 10px;
+}
+
+.flight-listing {
+  margin-top: 20px;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 4px;
+}
